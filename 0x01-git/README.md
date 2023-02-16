@@ -1,1 +1,1 @@
-My name is Douglas
+Am a student of Alx SE
